@@ -2,9 +2,9 @@ Cross-Domain-Landmarks-Selection-CDLS-
 =========================
 Author Yao-Hung (Hubert) Tsai <yaohungt@andrew.cmu.edu>
 
-Package with code and demo usage for the paper:
-"Learning Cross-Domain Landmarks for Heterogeneous Domain Adaptation"
-    Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang
+Package with code and demo usage for the paper:</br>
+"Learning Cross-Domain Landmarks for Heterogeneous Domain Adaptation"</br>
+    Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang</br>
     Computer Vision and Pattern Recognition (CVPR) 2016.
 
 Setup:
@@ -20,4 +20,4 @@ Setup:
 
 Run:
 ----
-- Directly run *CDLS_demo.m*
+- Directly run **CDLS_demo.m**
